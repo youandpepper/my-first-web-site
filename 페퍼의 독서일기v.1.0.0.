@@ -1,0 +1,372 @@
+<!doctype html>
+<html>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DPBRTKG6KS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DPBRTKG6KS');
+</script>
+<head>
+<title>페퍼의 독서일기 - 해가 지는 곳으로, 최진영</title>
+<meta charset="utf-8">
+<style>
+  #grid {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+  }
+  body {
+    margin:0px;
+  }
+  .present {
+    color:gray
+  }
+  a {
+    color:black;
+    text-decoration: none;
+  }
+  h1 {
+    border-bottom:1px solid black;
+    padding:10px;
+    margin:0;
+  }
+  ol {
+    border-right:1px solid black;
+    width:230px;
+    margin:0;
+    padding:15px;
+  }
+  img {
+    display: block;
+    margin: 0px auto;
+  }
+  .contents {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+  <h1><a href="index.html">페퍼의 독서일기</a></h1>
+  <div id="grid">
+      <ol>
+          <li><a href="1.html" class="present">해가 지는 곳으로, 최진영</a></li>
+          <li><a href="2.html">두개골의 안과 밖, 서이제 </a></li>
+          <li><a href="3.html">불안의 서, 페르난두 페소아</a></li>
+      </ol>
+      <div class="contents">
+         <h2>Book.1 <a href="https://search.shopping.naver.com/book/catalog/32444848019?cat_id=50010002&frm=PBOKPRO&query=%ED%95%B4%EA%B0%80+%EC%A7%80%EB%8A%94+%EA%B3%B3%EC%9C%BC%EB%A1%9C+%EC%B5%9C%EC%A7%84%EC%98%81&NaPm=ct%3Dlct4sxyo%7Cci%3Da315a4538e1cc968273f2d2df514b8e13e9ef43d%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D5b3fcaf76bbc9d715d2c00a5a612210c7bfcd062" target="_blank" title="<해가 지는 곳으로> 책 소개"><해가 지는 곳으로></a>, 최진영</h2>
+         <img src="해가 지는 곳으로.jpg" width="90%">
+         <h3>55p</h3>
+         <p><strong><u>불행이 바라는 건 내가 나를 홀대하는 거야.</strong></u> 내가 나를 하찮게 여기고 망가트리는 거지. 난 절대 이 재앙을 닮아 가진 않을 거야. 재앙이 원하는 대로 살진 않을 거야.</p><p style="margin:-5px 0px;">지나를 닮고 싶었다.</p><p>지나처럼 먹고 마시고 걸으려고 했다. 서두르지 않고 천천히, 눈앞의 것을 최대한 보고 느끼고 생각하려고 했다. 하지만 나는 지나가 아니고, 지나는 고유하고, 우리는 달랐다. 콩을 그릇에 덜어 먹는 방식을 따라할 수는 있어도 지나의 마음까지 흉내 낼 수는 없었다. 나는 조금씩 재앙을 닮아 가고 있었다. 그렇다는 것을 지나가 눈치챌까 봐 두려웠다.
+         </p>
+      </div>
+   </div>
+
+
+  <p>
+    <div id="disqus_thread"></div>
+    <script>
+        /**
+        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+        /*
+        var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://web1-jdfeyupsww.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </p>
+</body>
+</html>
+<!doctype html>
+<html>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DPBRTKG6KS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DPBRTKG6KS');
+</script>
+<title>페퍼의 독서일기 - 두개골의 안과 밖, 서이제</title>
+<meta charset="utf-8">
+<style>
+  #grid {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+  }
+  body {
+    margin:0px;
+  }
+  .present {
+    color:gray
+  }
+  a {
+    color:black;
+    text-decoration: none;
+  }
+  h1 {
+    border-bottom:1px solid black;
+    padding:10px;
+    margin:0;
+  }
+  ol {
+    border-right:1px solid black;
+    width:230px;
+    margin:0;
+    padding:15px;
+  }
+  img {
+    display: block;
+    margin: 0px auto;
+  }
+  .contents {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+  <h1><a href="index.html">페퍼의 독서일기</a></h1>
+  <div id="grid">
+      <ol>
+          <li><a href="1.html">해가 지는 곳으로, 최진영</a></li>
+          <li><a href="2.html" class="present">두개골의 안과 밖, 서이제 </a></li>
+          <li><a href="3.html">불안의 서, 페르난두 페소아</a></li>
+      </ol>
+      <div class="contents">
+          <h2>Book.2 <a href="https://search.shopping.naver.com/book/catalog/32445193138?query=2022%EC%A0%8A%EC%9D%80%EC%9E%91%EA%B0%80%EC%83%81&NaPm=ct%3Dlct5fdu0%7Cci%3Df6e8c37c454163fe4ed6552aa8a268a6399f99b3%7Ctr%3Dboksl%7Csn%3D95694%7Chk%3Db413d12c2d9bd0637a53c212752274a9768024b4" target="_blank" title="<2022 젊은작가상> 책 소개"><두개골의 안과 밖></a>, 서이제</h2>
+          <img src="두개골의 안과 밖.jpg" width="90%">
+          <h3>296p</h3>
+          <p>죽음이 너무 많았다. 죽음이 너무 많아서 죽음인가보다 했다. 죽음이 너무 많고, 죽음이 여전히 너무 많아서 여전히 죽음인가보다 했다. 죽어가다가 죽음. 죽음이 너무 많아서 나도 죽나보다 했다. 나도 죽어가다가 언젠가 죽음. 그러나 닭들은 너무 빨리 죽어갔다. 알을 낳지 못해 죽고, 알을 많이 낳아서 죽고, 병들어서 죽고, 병들 수 있기 때문에 죽고, 스트레스 받아서 죽고, 끼여 죽고, 눌려 죽고, 깔려죽고, 먹히기 위해 죽고, 죽고 또 죽고, 빠르게, 빠르게 죽고 빠르게 죽으면, 그다음에는 더 빠르게 죽어야 했다. 너무 빨리 죽어서, 그들이 어떻게 죽었는지도 모를 때가 있었다. 내가 아는 죽음보다 사실 더 많은 죽음이 있었다. 더 많은 죽음이 있다. <strong><u>나는 내가 상상하지도 못할 만큼 많은 죽음들을 빌려 산다.</strong></u>
+          </p>
+      </div>
+   </div>
+  
+
+  <p>
+    <div id="disqus_thread"></div>
+    <script>
+        /**
+        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+        /*
+        var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://web1-jdfeyupsww.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </p>
+</body>
+</html>
+<!doctype html>
+<html>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DPBRTKG6KS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DPBRTKG6KS');
+</script>
+<title>페퍼의 독서일기 - 불안의 서, 페르난두 페소아</title>
+<meta charset="utf-8">
+<style>
+  #grid {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+  }
+  body {
+    margin:0px;
+  }
+  .present {
+    color:gray
+  }
+  a {
+    color:black;
+    text-decoration: none;
+  }
+  h1 {
+    border-bottom:1px solid black;
+    padding:10px;
+    margin:0;
+  }
+  ol {
+    border-right:1px solid black;
+    width:230px;
+    margin:0;
+    padding:15px;
+  }
+  img {
+    display: block;
+    margin: 0px auto;
+  }
+  .contents {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+  <h1><a href="index.html">페퍼의 독서일기</a></h1>
+  <div id="grid">
+      <ol>
+          <li><a href="1.html">해가 지는 곳으로, 최진영</a></li>
+          <li><a href="2.html">두개골의 안과 밖, 서이제 </a></li>
+          <li><a href="3.html" class="present">불안의 서, 페르난두 페소아</a></li>
+      </ol>
+      <div class="contents">
+          <h2>Book.3 <a href="https://search.shopping.naver.com/book/catalog/32480653830?query=%EB%B6%88%EC%95%88%EC%9D%98%EC%84%9C%20%ED%8E%98%EB%A5%B4%EB%82%9C%EB%91%90%ED%8E%98%EC%86%8C%EC%95%84&NaPm=ct%3Dlct6rzu0%7Cci%3Deb1e1c5edcddc47c99aaff1c44e388f252f3e504%7Ctr%3Dboksl%7Csn%3D95694%7Chk%3Da25a96b844cb51c6f23aff9e7ddb3e020bc13a43" target="_blank" title="<불안의 서> 책 소개"><불안의 서></a>, 페르난두 페소아</h2>
+          <img src="불안의 서.jpg" width="90%">
+          <h3>32p</h3>
+          <p>나는 삶에서 극히 사소한 것만을 간청했다. 그런데 그 극히 사소한 소망들도 삶은 들어주지 않았다. 한 줄기의 햇살, 전원에서의 한순간, 아주 약간의 평안, 생명을 유지할 수 있을 정도의 빵, 존재의 인식이 나에게 지나치게 짐이 되지 않기를, 타인들에게 아무것도 원하지 않기를, 그리고 타인들도 나에게 아무것도 원하지 않기를. 그런데 이 정도의 소망도 충족되지 못했다. <strong><u>마치 어떤 사람이 마음이 악해서가 아니라 단지 외투의 단추를 풀고 지갑을 꺼내기 귀찮아서 거지에게 적선을 베풀지 않은 것처럼, 삶은 나를 그렇게 대했다.</u></strong>
+          </p>
+      </div>
+   </div>
+
+
+    <p>
+    <div id="disqus_thread"></div>
+    <script>
+        /**
+        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+        /*
+        var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://web1-jdfeyupsww.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <style>
+            h1,h2 {
+                border:5px solid red;
+                padding:20px;
+                margin:20px;
+                display:block;
+                width:600px;
+                 }
+        </style>
+    </head>
+    <body>
+    <h1>Book.2 <두개골의 안과 밖>, 서이제</h1>
+    <h2>296p</h2>
+    죽음이 너무 많았다. 죽음이 너무 많아서 죽음인가보다 했다. 죽음이 너무 많고, 죽음이 여전히 너무 많아서 여전히 죽음인가보다 했다. 죽어가다가 죽음. 죽음이 너무 많아서 나도 죽나보다 했다. 나도 죽어가다가 언젠가 죽음. 그러나 닭들은 너무 빨리 죽어갔다. 알을 낳지 못해 죽고, 알을 많이 낳아서 죽고, 병들어서 죽고, 병들 수 있기 때문에 죽고, 스트레스 받아서 죽고, 끼여 죽고, 눌려 죽고, 깔려죽고, 먹히기 위해 죽고, 죽고 또 죽고, 빠르게, 빠르게 죽고 빠르게 죽으면, 그다음에는 더 빠르게 죽어야 했다. 너무 빨리 죽어서, 그들이 어떻게 죽었는지도 모를 때가 있었다. 내가 아는 죽음보다 사실 더 많은 죽음이 있었다. 더 많은 죽음이 있다. <A></A>나는 내가 상상하지도 못할 만큼 많은 죽음들을 빌려 산다.
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <style>
+            #grid{
+                border:5px solid pink;
+                display:grid;
+                grid-template-columns: 150px 1fr;
+            }
+            div{
+                border:5px solid gray;
+            }
+        </style>
+    </head>
+<body>
+    <div id="grid">
+    <div>NAVIGATION</div>
+    <div>dfdsffddfsfdfsdfsdf</div>
+    </div>
+</body>
+</html>
+<!doctype html>
+<html>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DPBRTKG6KS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DPBRTKG6KS');
+</script>
+<title>페퍼의 독서일기 - Welcome</title>
+<meta charset="utf-8">
+<style>
+  a {
+    color:black;
+    text-decoration: none;
+  }
+  h1 {
+    font-size: 35px;
+    text-align: center;
+  }
+  ol {
+    display:table;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  img {
+    display: block;
+    margin: 0px auto;
+  }
+</style>
+</head>
+<body>
+  <h1><a href="index.html">페퍼의 독서일기</a></h1>
+  <img src="페퍼의 독서일기.jpg" width="40%">
+  <ol><h3>
+      <li><a href="1.html">해가 지는 곳으로, 최진영</a></li>
+      <li><a href="2.html">두개골의 안과 밖, 서이제 </a></li>
+      <li><a href="3.html">불안의 서, 페르난두 페소아</a></li>
+  </ol></h3>
+  <iframe width="825" height="464" src="https://www.youtube.com/embed/Sllp_eTV7Ks" title="퇴근 후 밤 열한시, 잠들기 아쉬워 연주해본 감성 재즈 | Night & Jazz | 수면 카페 공부 독서 재택 코딩" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/63c16f8947425128790d4570/1gmlpncp5';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+  })();
+  </script>
+  <!--End of Tawk.to Script-->
+</body>
+</html>
